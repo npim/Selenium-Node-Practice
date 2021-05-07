@@ -1,0 +1,23 @@
+{
+  "name": "seleniumpractice",
+  "version": "1.0.0",
+  "description": "Practice using Seleniun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Intan Maharani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chromedriver": "^90.0.0",
+    "city-and-state": "^1.4.0",
+    "express": "^4.17.1",
+    "geckodriver": "^1.22.3",
+    "make-random": "^1.2.2",
+    "random-city-name": "^1.0.2",
+    "selenium-webdriver": "^4.0.0-beta.3",
+    "unique-random-array": "^3.0.0"
+  }
+}
